@@ -1,0 +1,15 @@
+1.crear un archivo directamente de GitHub
+2.ir a la carpeta donde se quiere clonar la carpeta
+3.abrir git bash
+4.escribir git clone (direccion que se copio del github) 
+5.abrir visual studio code
+6.ingresar el siguiente comando cd(nombre de la carpeta)
+7.ingresar ls
+8.ingresar el siguiente comando git branch jos(jos es el nombre del branch)
+9.ingresar el siguiente comando git checkout jos(para crear el archivo en nuestro repositorio)
+10.ingresar el siguiente comando git config user.email josmman7930@gmail.com(sincroniza con el correo)
+11.ingresar el siguiente comando git config user.name josman722(sincroniza con el usuario de github)
+12.ingresar el siguiente comando git status(es para ver si hay cambios en el documento)
+13.ingresar el siguiente comando git add . (agrega todos los archivos que tiene el documento)
+14.ingresar el siguiente comando git commit -m"descripcion del archivo"(se coloca la descripcion del archivo)
+15.ingresar el siguiente comando git push origin jos(nombre de la carperta que se coloco mas arriba)
